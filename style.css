@@ -108,3 +108,34 @@ text-decoration:none;
 width:550px;
 max-width:100%;
 }
+.stats{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:20px;
+padding:60px 8%;
+}
+
+.card{
+background:#141414;
+padding:35px;
+text-align:center;
+border:1px solid #d4af37;
+border-radius:18px;
+transition:.3s;
+}
+
+.card:hover{
+transform:translateY(-10px);
+box-shadow:0 15px 30px rgba(212,175,55,.25);
+}
+
+.card h2{
+color:#d4af37;
+font-size:40px;
+margin-bottom:10px;
+}
+
+.card p{
+font-size:18px;
+color:#ddd;
+}
