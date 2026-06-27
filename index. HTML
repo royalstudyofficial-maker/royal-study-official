@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Royal Study Official</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="header">
+
+<nav class="navbar">
+
+<div class="logo">
+
+<img src="assets/logo.png" alt="Royal Study Official Logo">
+
+<div>
+<h2>Royal Study Official</h2>
+<p>By Muhammad Amir</p>
+</div>
+
+</div>
+
+<ul class="nav-links">
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#">Notes</a></li>
+
+<li><a href="#">Guess Papers</a></li>
+
+<li><a href="#">Past Papers</a></li>
+
+<li><a href="#">MCQs</a></li>
+
+<li><a href="#">Online Tests</a></li>
+
+<li><a href="#">Contact</a></li>
+
+</ul>
+
+<a href="#" class="join-btn">
+Join WhatsApp
+</a>
+
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<div class="hero-text">
+
+<span class="badge">
+Punjab Board Study Platform
+</span>
+
+<h1>
+
+Learn Smarter With
+
+<span>Royal Study Official</span>
+
+</h1>
+
+<p>
+
+Download Notes, Guess Papers,
+Past Papers, Pairing Schemes,
+MCQs and Free Online Tests.
+
+</p>
+
+<div class="hero-buttons">
+
+<a href="#" class="gold-btn">
+
+Explore Notes
+
+</a>
+
+<a href="#" class="outline-btn">
+
+Latest Updates
+
+</a>
+
+</div>
+
+</div>
+
+<div class="hero-image">
+
+<img src="assets/hero.png" alt="Hero Image">
+
+</div>
+
+</section>
+<!-- Statistics Section -->
+
+<section class="stats">
+
+<div class="stat-card">
+<h2>10K+</h2>
+<p>Students</p>
+</div>
+
+<div class="stat-card">
+<h2>5000+</h2>
+<p>Notes</p>
+</div>
+
+<div class="stat-card">
+<h2>1200+</h2>
+<p>Guess Papers</p>
+</div>
+
+<div class="stat-card">
+<h2>100%</h2>
+<p>Free Study Material</p>
+</div>
+
+</section>
+
+<!-- Features Section -->
+
+<section class="features">
+
+<h2 class="section-title">Our Features</h2>
+
+<div class="feature-grid">
+
+<div class="feature-card">
+<h3>📚 Notes</h3>
+<p>Chapter-wise notes for Punjab Boards.</p>
+<a href="#">Explore</a>
+</div>
+
+<div class="feature-card">
+<h3>📝 Guess Papers</h3>
+<p>Latest board guess papers.</p>
+<a href="#">View</a>
+</div>
+
+<div class="feature-card">
+<h3>📄 Past Papers</h3>
+<p>Solved & unsolved past papers.</p>
+<a href="#">Download</a>
+</div>
+
+<div class="feature-card">
+<h3>🧠 MCQs</h3>
+<p>Practice important MCQs online.</p>
+<a href="#">Start</a>
+</div>
+
+<div class="feature-card">
+<h3>🧪 Online Tests</h3>
+<p>Attempt chapter-wise tests.</p>
+<a href="#">Attempt</a>
+</div>
+
+<div class="feature-card">
+<h3>📅 Pairing Schemes</h3>
+<p>Latest Punjab Board pairing schemes.</p>
+<a href="#">Open</a>
+</div>
+
+</div>
+
+</section>
+
+<!-- Latest Updates -->
+
+<section class="updates">
+
+<h2 class="section-title">Latest Updates</h2>
+
+<div class="update-box">
+
+<p>📢 10th Class Guess Papers Updated</p>
+
+<p>📢 1st Year Pairing Scheme Available</p>
+
+<p>📢 Online Tests Coming Soon</p>
+
+<p>📢 Royal Study Official Premium Version</p>
+
+</div>
+
+</section>
+
+<!-- Student Reviews -->
+
+<section class="reviews">
+
+<h2 class="section-title">
+Student Reviews
+</h2>
+
+<div class="review-grid">
+
+<div class="review-card">
+⭐⭐⭐⭐⭐
+<p>
+"Best website for Punjab Board students. Notes aur Guess Papers bohot helpful hain."
+</p>
+<h4>Ali Raza</h4>
+</div>
+
+<div class="review-card">
+⭐⭐⭐⭐⭐
+<p>
+"Royal Study Official ki online tests ne meri preparation improve kar di."
+</p>
+<h4>Fatima Noor</h4>
+</div>
+
+<div class="review-card">
+⭐⭐⭐⭐⭐
+<p>
+"Professional design aur free study material. Highly recommended."
+</p>
+<h4>Muhammad Ahmed</h4>
+</div>
+
+</div>
+
+</section>
+
+<!-- Call To Action -->
+
+<section class="cta">
+
+<h2>Start Your Learning Journey Today</h2>
+
+<p>
+Join Royal Study Official and access Notes, Guess Papers,
+Past Papers, MCQs and Online Tests.
+</p>
+
+<a href="#" class="gold-btn">
+Join Now
+</a>
+
+</section>
+
+<!-- Footer -->
+
+<footer class="footer">
+
+<div class="footer-logo">
+
+<h2>👑 Royal Study Official</h2>
+
+<p>
+Prepared By Muhammad Amir
+</p>
+
+</div>
+
+<div class="footer-links">
+
+<a href="#">Home</a>
+<a href="#">Notes</a>
+<a href="#">Guess Papers</a>
+<a href="#">Past Papers</a>
+<a href="#">MCQs</a>
+<a href="#">Online Tests</a>
+<a href="#">Contact</a>
+
+</div>
+
+<p class="copyright">
+
+© 2026 Royal Study Official.
+All Rights Reserved.
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
